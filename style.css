@@ -21,12 +21,12 @@ header {
 }
 
 h1 {
-  font-size: 1rem;
+  font-size: 1.5rem;
   margin-bottom: 1rem;
 }
 
 h2 {
-  font-size: 1rem;
+  font-size: 1.1rem;
   margin: 1rem 0;
   font-weight: bold;
 }
@@ -34,7 +34,7 @@ h2 {
 /* === NEW STYLING FOR SECTION HEADINGS === */
 .video-section h2 {
   text-align: center;         /* Center alignment */
-  font-size: 1rem;            /* Larger font size */
+  font-size: 1.1rem;            /* Larger font size */
   color: white;             /* Tomato red color (you can change this) */
   margin-bottom: 1.5rem;
 }
@@ -52,7 +52,7 @@ main {
 }
 
 .video-card {
-  background-color: #2c3e50;
+  background-color: #60A8A8;
   padding: 1rem;
   border-radius: 8px;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
