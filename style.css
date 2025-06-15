@@ -8,7 +8,7 @@
 }
 
 body {
-  font-family: Arial, sans-serif;
+  font-family: Trebuchet MS, Trebuchet MS;
   background-color: #121212; /* Dark theme */
   color: white;
   line-height: 1.6;
@@ -33,7 +33,7 @@ h2 {
 /* === NEW STYLING FOR SECTION HEADINGS === */
 .video-section h2 {
   text-align: center;         /* Center alignment */
-  font-size: 2rem;            /* Larger font size */
+  font-size: 1.5rem;            /* Larger font size */
   font-weight: bold;          /* Bold text */
   color: white;             /* Tomato red color (you can change this) */
   margin-bottom: 1.5rem;
