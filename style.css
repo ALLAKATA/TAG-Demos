@@ -26,15 +26,15 @@ h1 {
 }
 
 h2 {
-  font-size: 1.2rem;
+  font-size: 1rem;
   margin: 1rem 0;
+  font-weight: bold;
 }
 
 /* === NEW STYLING FOR SECTION HEADINGS === */
 .video-section h2 {
   text-align: center;         /* Center alignment */
-  font-size: 1.5rem;            /* Larger font size */
-  font-weight: bold;          /* Bold text */
+  font-size: 1rem;            /* Larger font size */
   color: white;             /* Tomato red color (you can change this) */
   margin-bottom: 1.5rem;
 }
