@@ -71,7 +71,7 @@ main {
 .thumbnail {
   max-width: 100%;
   height: auto;  
-  width: 100px;    
+  width: 150px;    
   border-radius: 8px;
   margin-bottom: 1rem;
 }
