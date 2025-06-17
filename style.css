@@ -10,7 +10,6 @@
 body {
   font-family: Trebuchet MS, Trebuchet MS;
   background-color: #121212; /* Dark theme */
-  color: white;
   line-height: 1.6;
 }
 
@@ -30,6 +29,7 @@ h2 {
   margin: 1rem 0;
   font-weight: bold;
   background-color: #B0D4D4;
+  color: black;
 }
 
 h3 {
@@ -37,6 +37,7 @@ h3 {
   margin: 1rem 0;
   font-weight: bold;
   background-color: #B0D4D4;
+  color: black;
 }
 
 /* === NEW STYLING FOR SECTION HEADINGS === */
