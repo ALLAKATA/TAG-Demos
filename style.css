@@ -40,6 +40,14 @@ h3 {
   color: black;
 }
 
+h4 {
+  font-size: 2rem;
+  margin: 1rem 0;
+  font-weight: bold;
+  background-color: #B0D4D4;
+  color: black;
+}
+
 /* === NEW STYLING FOR SECTION HEADINGS === */
 .video-section h2 {
   text-align: center;
