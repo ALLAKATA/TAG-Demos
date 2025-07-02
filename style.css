@@ -20,11 +20,13 @@ header {
 }
 
 h1 {
+  text-align: center;
   font-size: 2rem;
   margin-bottom: 1rem;
 }
 
 h2 {
+  text-align: center;
   font-size: 1.3rem;
   margin: 1rem 0;
   font-weight: bold;
@@ -33,6 +35,7 @@ h2 {
 }
 
 h3 {
+  text-align: center;
   font-size: 1rem;
   margin: 1rem 0;
   font-weight: bold;
@@ -41,6 +44,7 @@ h3 {
 }
 
 h4 {
+  text-align: center;
   font-size: 2rem;
   margin: 1rem 0;
   font-weight: bold;
